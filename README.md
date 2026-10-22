@@ -43,7 +43,7 @@
 | Projeto | Descrição | Stack |
 |---|---|---|
 | [**blog**](https://github.com/GuiDobelin/blog) | API de blog em **microsserviços** (usuários, posts e comentários) com autenticação JWT, orquestrada com Docker Compose | Node.js · Express · Sequelize · PostgreSQL · Docker |
-| [**chat**](https://github.com/GuiDobelin/chat) | Chat **em tempo real** com salas e login, mensagens via WebSocket ([ver demonstração](https://youtu.be/Iw-14YTs37I)) | React · Node.js · Socket.IO · MongoDB |
+| [**chat**](https://github.com/GuiDobelin/chat) | Chat **em tempo real** com salas e login, mensagens via WebSocket. | React · Node.js · Socket.IO · MongoDB |
 | [**animal-adoption**](https://github.com/GuiDobelin/animal-adoption) | Sistema de terminal para cadastro de animais e adotantes, com cruzamento de perfis, usando filas, pilhas e listas encadeadas | Python |
 | [**Site_Django**](https://github.com/GuiDobelin/Site_Django) | Site de receitas feito com Django e templates | Python · Django · HTML · CSS |
 
